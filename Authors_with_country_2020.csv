@@ -1,0 +1,483 @@
+index,name,affiliation,country
+0,Una-May O'Reilly,"MIT Computer Science and Artificial Intelligence Laboratory, Cambridge, USA",United States
+1,Constandinos X. Mavromoustakis,"University of Nicosia, Nicosia, Cyprus",Cyprus
+2,Biplab Sikdar 0001,"National University of Singapore, Department of Electrical and Computer Engineering",Singapore
+3,Dusit Niyato,"Nanyang Technological University, Singapore",Singapore
+4,Xiaofei Wang 0001,"Tianjin University, Tianjin Key Laboratory of Advanced Networking, China",China
+5,Xu Chen 0004,"Sun Yat-sen University, School of Data and Computer Science, Guangzhou, China",China
+6,Pascal Bouvry,"University of Luxembourg, Luxembourg",Luxembourg
+7,Matthias R. Brust,University of Luxembourg,Luxembourg
+8,Maosong Sun 0001,"Tsinghua University, Department of Computer Science and Technology, Beijing, China",China
+9,Mohamed Alloghani,"Liverpool John Moores University, UK",United Kingdom
+10,Ada Diaconescu,"Télécom Paris, CNRS LTCI, France",France
+11,Aboul Ella Hassanien,"Cairo University, Giza, Egypt",Egypt
+12,Vincent Conitzer,"Carnegie Mellon University, USA",United States
+13,John P. Dickerson,"University of Maryland, MD, USA",United States
+14,Anthony Lewis Brooks,"Aalborg University Esbjerg, Denmark",Denmark
+15,Yiyu Shi 0001,"University of Notre Dame, Sustainable Computing Laboratory, USA",United States
+16,Lei Yang 0018,"University of Notre Dame, Department of Computer Science and Engineering, IN, USA",United States
+17,Matthias L. Hemmje,"University of Hagen, Faculty of Mathematics and Computer Science, Germany",Germany
+18,M. Shamim Kaiser,"Jahangirnagar University, Institute of Information Technology, Dhaka, Bangladesh",Bangladesh
+19,Randy Goebel,"University of Alberta, Edmonton, Canada",Canada
+20,Andreas Holzinger,"University of Natural Resources and Life Sciences Vienna, Austria",Austria
+21,Peter Kieseberg,"SBA Research, Austria",Austria
+22,Otmar Hilliges,"ETH Zurich, Switzerland",Switzerland
+23,Ranjitha Kumar,"University of Illinois Urbana-Champaign, IL, USA",United States
+24,Mike Preuss,"Universiteit Leiden, The Netherlands",Netherlands
+25,Pieter Spronck,"Tilburg University, Tilburg Center for Cognition and Communication (TiCC), The Netherlands",Netherlands
+26,Luis Galárraga,"Aalborg University, Department of Computer Science, Denmark",Denmark
+27,Juan M. Corchado,"University of Salamanca, Spain",Spain
+28,Muh-Chyun Tang 0001,"National Taiwan University, Department of Library and Information Science, Taipei, Taiwan)",Taiwan
+29,Alfred Zimmermann,"Reutlingen University, Reutlingen, Germany",Germany
+30,Parth Mehta 0001,"Parmonic, USA",United States
+31,Arnab Bhattacharya 0001,"Indian Institute of Technology (IIT), Kanpur",India
+32,Arindam Pal 0001,"University of New South Wales, Sydney, NSW, Australia",Australia
+33,Hani Hagras,"University of Essex, Colchester, UK",United Kingdom
+34,Urko Zurutuza,"Mondragon University, Department of Electronics and Computing, Faculty of Engineering, Spain",Spain
+35,João Barroso 0001,"University of Trás-os-Montes e Alto Douro, Vila Real, Portugal",Portugal
+36,Arsénio Reis,"University of Trás-os-Montes and Alto Douro, Portugal",Portugal
+37,Jun Xu 0005,"Nanjing University of Information Science & Technology, China",China
+38,Curtis E. Dyreson,Utah State University,United States
+39,Xin Zhang 0049,"Guangzhou University, School of Computer Science and Cyber Engineering, China",China
+40,Jing Liang 0008,"Macau University of Science and Technology, Macao, China",China
+41,Ying Tang 0001,"Rowan University, Electrical and Computer Engineering, Glassboro, NJ, USA",United States
+42,Claudia Linnhoff-Popien,"Ludwig Maximilian University of Munich, Germany",Germany
+43,Liran Liss,"NVIDIA, Israel",Israel
+44,Thuy T. Truong 0001,"Dell EMC Research Europe, Cork, Ireland",Ireland
+45,Llanos Cuenca,"Polytechnic University of Valencia, Spain",Spain
+46,Ángel Ortiz Bas,"Polytechnic University of Valencia, Research Centre on Production Management and Engineering (CIGIP), Spain",Spain
+47,Luc De Raedt,"Catholic University of Leuven, Belgium",Belgium
+48,Dana H. Ballard,"University of Texas at Austin, USA",United States
+49,Bo Liu 0042,"University of Texas at Austin, Department of Computer Science, Austin, TX, USA",United States
+50,Fabio Martinelli,"National Research Council, Italy",Italy
+51,Naimul Mefraz Khan,"Toronto Metropolitan University, ON, Canada",Canada
+52,Desmond J. Higham,"University of Edinburgh, UK",United Kingdom
+53,Soumyadip Bandyopadhyay,NVIDIA,
+54,Zhenyu Liu 0002,"Beijing University of Posts and Telecommunications, MOE, Key Laboratory of Universal Wireless Communications, China",China
+55,Alexander Tobias Neumann,"RWTH Aachen University, Germany",Germany
+56,Ralf Klamma,"RWTH Aachen University, Germany",Germany
+57,Milos Kravcik,"RWTH Aachen University, Germany",Germany
+58,Jun Li 0059,"KTH Royal Institute of Technology, Optical Networks Laboratory, Stockholm, Sweden",Sweden
+59,Jie Zhang 0006,"Beijing University of Posts and Telecommunication, State Key Laboratory of Information Photonics and Optical Communications, China",China
+60,Benedikt Loepp,"University of Duisburg-Essen, Duisburg, Germany",Germany
+61,Eelco Herder,"Radboud Universiteit Nijmegen, The Netherlands",Netherlands
+62,Mirjam Augstein,"University of Applied Sciences Upper Austria, Hagenberg, Austria",Austria
+63,Enes Yigitbas,"University of Paderborn, Germany",Germany
+64,Giuseppe Ricci,"University of Salento, Lecce, Italy",Italy
+65,Gemma Bel Enguix,"National Autonomous University of Mexico (UNAM), Institute of Engineering, Mexico City, Mexico",Mexico
+66,Juan-Manuel Torres-Moreno,"University of Avignon, Avignon Computer Laboratory (LIA)",France
+67,Wen Gao 0001,"Chinese Academy of Sciences, Institute of Computing Technology, Beijing, China",China
+68,Yonghong Tian 0001,"Peking University, Beijing, School of Electronics Engineering and Computer Science, National Engineering Laboratory for Video Technology, China",China
+69,Wenwu Zhu 0001,"Tsinghua University, Department of Computer Science, Beijing, China",China
+70,Nachiappan Nagappan,"Microsoft Research, Redmond, WA",United States
+71,Leila Ben Ayed,"University of Tunis, Laboratory LaTICE, Tunisia",Tunisia
+72,João Correia 0002,"University of Minho, CEB - Centre of Biological Engineering, Braga, Portugal",Portugal
+73,Enrico Motta,"Open University, Milton Keynes, UK",United Kingdom
+74,Harald Sack,"FIZ Karlsruhe, Leibniz Institute for Information Infrastructure, Germany",Germany
+75,Diego Reforgiato Recupero,"Università degli Studi di Cagliari, Italy",Italy
+76,Mahadevan Subramaniam,"University of Nebraska Omaha, USA",United States
+77,Pekka Abrahamsson,"University of Jyväskylä, Finland",Finland
+78,Xinyu Huang 0006,"Beijing Jiaotong University, Beijing, China",China
+79,Bo Yuan 0004,"Tongji University, MoE Key Laboratory of Embedded System and Service Computing, Shanghai, China",China
+80,Jie Tang 0001,"Tsinghua University, Department of Computer Science and Technology, Beijing, China",China
+81,Christian Engel 0003,"University of St. Gallen, Switzerland",Switzerland
+82,Quan Z. Sheng,"Macquarie University, Sydney, Australia",Australia
+83,Boualem Benatallah,"University of New South Wales, Sydney, Australia",Australia
+84,Amin Beheshti,"Macquarie University, Sydney, NSW, Australia",Australia
+85,Luís Paulo Reis,"University of Minho, School of Engineering, Guimarães, Portugal",Portugal
+86,Michael G. Pecht,"University of Maryland, Center for Advanced Life Cycle Engineering (CALCE)",United States
+87,Gihwan Cho,"Chonbuk National University, Division of Electronic and Information Engineering, Chonju, South Korea",South Korea
+88,Jong-Hyouk Lee,"Sejong University, Seoul, South Korea",South Korea
+89,Gregorio Martínez Pérez,"University of Murcia, Spain",Spain
+90,Shui Yu 0001,"University of Technology Sydney, School of Computer Science, Faculty of Engineering and Information Technology, Ultimo, NSW, Australia",Australia
+91,Zeyu Sun 0002,"Luoyang Institute of Science and Technology, Key Laboratory of Intelligent IoT, China",China
+92,Tian Wang 0001,"National Huaqiao University, College of Computer Science and Technology, Xiamen, China",China
+93,Ravi S. Sandhu,University of Texas at San Antonio,United States
+94,Anupam Joshi,"University of Maryland, USA",United States
+95,Rui Dinis 0001,"NOVA University Lisbon, FCT-DEE, Caparica, Portugal",Portugal
+96,Francisco Cercas 0001,"University Institute of Lisbon (ISCTE), Portugal",Portugal
+97,Yang Han 0003,"North China University of Science and Technology, College of Metallurgy and Energy, Key Laboratory of Engineering Calculation, Tangshan, China",China
+98,José Fco. Martínez-Trinidad,"National Institute of Astrophysics, Optics and Electronics, Puebla, Mexico",Mexico
+99,José Barata,"New University of Lisbon, Caparica, Portugal",Portugal
+100,Joel J. P. C. Rodrigues,"Federal University of Piauí (UFPI), Teresina - Pi, Brazil",Brazil
+101,Wei Wang 0176,"National University of Defense Technology, Institute of Electronic Warfare, Hefei, China",China
+102,Xiaoming Hu 0001,"KTH Royal Institute of Technology, Stockholm, Sweden",Sweden
+103,Giancarlo Fortino,"University of Calabria, Cosenza, Italy",Italy
+104,Tim Miller 0001,"University of Melbourne, School of Computing and Information Systems, Australia",Australia
+105,Antonio Torralba 0001,"Massachusetts Institute of Technology, Computer Science and Artificial Intelligence Laboratory",United States
+106,Aude Oliva,"MIT, Cambridge, MA, USA",United States
+107,Christopher W. Geib,SIFT LLC,
+108,José Hernández-Orallo,"Polytechnic University of Valencia, Spain",Spain
+109,Pascal Van Hentenryck,"Georgia Institute of Technology, School of Industrial and Systems Engineering, Atlanta, GA, USA",United States
+110,Raquel Fuentetaja 0001,"Universidad Carlos III de Madrid, Spain",Spain
+111,Arash Shaban-Nejad,"University of Tennessee Health Science Center, USA",United States
+112,Dell Zhang,"Thomson Reuters Labs, UK",United Kingdom
+113,Seán Ó hÉigeartaigh,"University of Cambridge, Centre for the Study of Existential Risk, UK",United Kingdom
+114,Mauricio Castillo-Effen,Universidad Católica Boliviana,
+115,Sebastijan Dumancic,"KU Leuven, Belgium",Belgium
+116,Xiaowei Huang 0001,"University of Liverpool, UK",United Kingdom
+117,Onn Shehory,"Thomas J. Watson Research Center, Yorktown Heights, USA",United States
+118,Milind Tambe,"Harvard University, Cambridge, MA, USA",United States
+119,Ying Wang 0058,"Longyan University, School of Physics and Mechanical and Electrical Engineering, Longyan, China",China
+120,Xuan-Nam Bui,"Hanoi University of Mining and Geology, Vietnam",Vietnam
+121,Samuel Fosso Wamba,"University of Toulouse, France",France
+122,Peter J. Denning,Naval Postgraduate School,United States
+123,Benjamin W. Wah,"Chinese University of Hong Kong, Department of Computer Science and Engineering, Sha Tin, Hong Kong",Hong Kong
+124,Haoran Xie 0001,"Lingnan University, Department of Computing and Decision Sciences, Hong Kong",Hong Kong
+125,Atreyi Kankanhalli,"National University of Singapore, Singapore",Singapore
+126,Claudia Löbbecke,"University of Cologne, Germany",Germany
+127,Dov Te'eni,"Tel Aviv University, Israel",Israel
+128,Aditya Sharma 0001,"University of Virginia, Division of Cardiovascular Medicine, Charlottesville, VA, USA",United States
+129,Vijay Viswanathan 0001,"MV Hospital for Diabetes and Professor M Viswanathan Diabetes Research Centre, Chennai, India",India
+130,Giuseppe Riva 0001,"Catholic University of Milan, Italy",Italy
+131,Jong Hyuk Park,"Seoul National University of Science and Technology (Seoultech), Department of Computer Science and Engineering, South Korea",South Korea
+132,Huimin Lu 0001,"Kyushu Institute of Technology, Kitakyushu, Japan",Japan
+133,Qing Hu 0001,"Dalian Maritime University, College of Information Science and Technology, China",China
+134,Min Zhang 0016,"Beijing University of Posts and Telecommunications, State Key Laboratory of Information Photonics and Optical Communications, China",China
+135,Hui Yang 0006,"Beijing University of Posts and Telecommunications, State Key Laboratory of Information Photonics and Optical Communications, China",China
+136,Lingjia Liu 0001,"Virginia Tech, Bradley Department of Electrical and Computer Engineering, Blacksburg, VA, USA",United States
+137,Hao Song 0001,"Virginia Tech, Blacksburg, VA, USA",United States
+138,Jianan Bai 0001,"Linköping University, Sweden",Sweden
+139,Jinsong Wu 0001,"Universidad de Chile, Department of Electrical Engineering, Santiago, Chile",Chile
+140,Sandeep K. Sood,"Central University of Himachal Pradesh, Department of Computer Science and Informatics, Dharamshala, India",India
+141,Ahmed E. Kamal 0001,"Iowa State University, Ames, USA",United States
+142,Albert Banchs,"Charles III University of Madrid, Spain",Spain
+143,Chuanbiao Wen,"Chengdu University, Sichuan, China",China
+144,Azzedine Boukerche,"University of Ottawa, Canada",Canada
+145,Xiao Liu 0007,"Central South University, School of Information Science and Engineering, Changsha, China",China
+146,Xuxun Liu 0001,"South China University of Technology, School of Electronic and Information Engineering, Guangzhou, China",China
+147,Yuxin Liu 0001,"Central South University, Changsha, China",China
+148,Zhiwen Yu 0001,"Northwestern Polytechnical University, School of Computer Science, Xi'an, China",China
+149,Chris D. Nugent,"University of Ulster, Belfast, UK",United Kingdom
+150,Frank Dignum,"Umeå University, Sweden",Sweden
+151,Piek Vossen,"VU University Amsterdam, Department Language, Literature and Communication, The Netherlands",Netherlands
+152,Mark A. Neerincx,"Delft University of Technology, Netherlands",Netherlands
+153,Maarten de Rijke,"University of Amsterdam, Netherlands",Netherlands
+154,Rineke Verbrugge,"University of Groningen, Netherlands",Netherlands
+155,Bart Verheij,"University of Groningen, The Netherlands",Netherlands
+156,M. Birna van Riemsdijk,"Utrecht University, Netherlands",Netherlands
+157,Frank van Harmelen,"VU University Amsterdam, Netherlands",Netherlands
+158,Linda C. van der Gaag,"Utrecht University, Netherlands",Netherlands
+159,Holger H. Hoos,"RWTH Aachen University, Computer Science Department, Aachen, Germany",Germany
+160,A. E. Eiben,"VU Amsterdam, Department of Computer Science, The Netherlands",Netherlands
+161,Virginia Dignum,"TU Delft, The Netherlands",Netherlands
+162,Catholijn M. Jonker,"Delft University of Technology, Department of Intelligent Systems, Netherlands",Netherlands
+163,Frans A. Oliehoek,"Delft University of Technology, The Netherlands",Netherlands
+164,Koen V. Hindriks,Delft University of Technology,Netherlands
+165,Stefan Schlobach,"Free University of Amsterdam, Netherlands",Netherlands
+166,Davide Grossi,"University of Groningen, the Netherlands",Netherlands
+167,Phillip A. Laplante,"Penn State, University Park, USA",United States
+168,Dejan S. Milojicic,Hewlett Packard Labs,
+169,Jose M. Such,"King's College London, UK",United Kingdom
+170,Gianluigi Ferrari 0001,"University of Parma, Department of Information Engineering",Italy
+171,Dimitrios Serpanos,"University of Patras, Greece",Greece
+172,Chris North 0001,"Virginia Tech, Department of Computer Science, Blacksburg, USA",United States
+173,David De Roure,"University of Oxford, UK",United Kingdom
+174,Omar Santos 0002,"Cisco Research Centre, Research Triangle Park, Durham-Raleigh, NC, USA",United States
+175,Mihai Dascalu,"Politehnica University of Bucharest, Romania",Romania
+176,Gabriel Gutu,"University Politehnica of Bucharest, Bucharest, Romania",Romania
+177,Francesco Conti 0001,"ETH Zurich, Switzerland",Switzerland
+178,Hai Helen Li,"Duke University, Department of Electrical and Computer Engineering",United States
+179,Christoph Studer,Cornell University,United States
+180,Michèle Sebag,"University of Paris-Sud, Laboratory for Computer Science (LRI), France",France
+181,Muhammad Awais 0003,"University of Leeds, Faculty of Medicine and Health, School of Psychology, UK",United Kingdom
+182,Muhammad Imran 0001,"King Saud University, College of Computer and Information Sciences, Riyadh, Saudi Arabia",Saudi Arabia
+183,Michael R. Smith 0002,"Sandia National Laboratories, Albuquerque, NM, USA",United States
+184,Frédéric Andrès,"National Institute of Informatics, NII, Japan",Japan
+185,Christoph Trattner,"University of Bergen, Norway",Norway
+186,Marijn Janssen 0001,"Delft University of Technology, Netherlands",Netherlands
+187,Tomasz Janowski,"Gdansk University of Technology, Poland",Poland
+188,Budhendra L. Bhaduri,"Oak Ridge National Laboratory, TN, USA",United States
+189,Krzysztof Janowicz,"University of California, Santa Barbara, USA",United States
+190,Song Gao 0001,"University of Wisconsin, Department of Geography, Madison, USA",United States
+191,David A. Shamma,"Toyota Research Institute, Palo Alto, CA, USA",United States
+192,Xiangliang Zhang 0001,"University of Notre Dame, IN, USA",United States
+193,Sarvapali D. Ramchurn,"University of Southampton, UK",United Kingdom
+194,Wei Chen 0051,"Xi'an University of Science and Technology, College of Geology and Environment, China",China
+195,Javier Ramírez 0001,"University of Granada, Department of Signal Theory, Telematics and Communications, Spain",Spain
+196,José R. Álvarez 0001,"National University of Distance Education, Spain",Spain
+197,José Manuel Ferrández,"Universidad Politécnica de Cartagena, Spain",Spain
+198,Antonio Fernández-Caballero 0001,"University of Castilla-La Mancha, Spain",Spain
+199,Juan Manuel Górriz,"University of Granada, Spain",Spain
+200,Alessandro Sperduti,"University of Padua, Italy",Italy
+201,David Vázquez 0001,"Element AI, Montral, Canada",Canada
+202,Fei-Yue Wang 0001,"Chinese Academy of Sciences, Institute of Automation, State Key Laboratory of Management and Control for Complex Systems, Beijing, China",China
+203,Stéphane Dauzère-Pérès,"CNRS, Paris, France",France
+204,Salvador García 0001,"University of Granada, Department of Computer Science and Artificial Intelligence, Spain",Spain
+205,Raja Chatila 0001,"Sorbonne University, Paris, France",France
+206,Enrique Herrera-Viedma,"University of Granada, Spain",Spain
+207,Junshan Zhang,"Arizona State University, Tempe, Arizona, USA",United States
+208,Albert Y. Zomaya,"University of Sydney, Australia",Australia
+209,Shuiguang Deng,Zhejiang University,China
+210,Deke Guo,"National University of Defense Technology, Science and Technology on Information Systems Engineering Laboratory, Changsha, China",China
+211,Fei Gao 0006,"Hangzhou Dianzi University, School of Computer Science and Technology, Key Laboratory of Complex Systems Modeling and Simulation, China",China
+212,Nicholas R. Jennings,"University of Southampton, UK",United Kingdom
+213,Giuliano Casale,"Imperial College London, UK",United Kingdom
+214,Gianluca Baldassarre,"National Research Council, Italy",Italy
+215,Peter Stone,"University of Texas at Austin, USA",United States
+216,Kristinn R. Thórisson,"Reykjavík University, Iceland",Iceland
+217,John E. Laird,"University of Michigan, Ann Arbor, USA",United States
+218,Alan F. T. Winfield,"University of the West of England, Bristol, UK",United Kingdom
+219,Roman V. Yampolskiy,University of Louisville,United States
+220,Richard S. Sutton,"DeepMind Alberta, Edmonton, AB, Canada",Canada
+221,Dagmar Monett Díaz,"Berlin School of Economics and Law, Department of Cooperative Studies, Germany",Germany
+222,Raúl Rojas 0001,"Free University of Berlin, Institute of Computer Science, Germany",Germany
+223,William J. Rapaport,"University at Buffalo, USA",United States
+224,Fernando de la Prieta,"University of Salamanca, Salamanca, Spain",Spain
+225,Sasha Luccioni,"HuggingFace", United States
+226,Paolo Torroni,"University of Bologna, Italy",Italy
+227,Juan Carlos Augusto,"Middlesex University, Department of Computer Science",United Kingdom
+228,Andrés Muñoz 0001,"Catholic University of Murcia, Polytechnic School, Spain",Spain
+229,Zhe He 0001,"Florida State University, School of Information, Tallahassee, FL, USA",United States
+230,William Gropp,"Argonne National Laboratory, Lemont, Illinois, USA",United States
+231,Daniel S. Katz,"University of Illinois Urbana-Champaign, School of Information Sciences, IL, USA",United States
+232,Volodymyr V. Kindratenko,"University of Illinois at Urbana-Champaign, USA",United States
+233,H. Birkan Yilmaz 0001,"Bogazici University, Istanbul, Turkey",Turkey
+234,Yi Bu 0001,"Peking University, Department of Information Management, Beijing, China",China
+235,Min Song 0001,"Yonsei University, Department of Library & Information, Seoul, South Korea",South Korea
+236,Ying Ding 0001,"University of Texas at Austin, TX, USA",United States
+237,Sweta Srivastava,"Amity University, Noida, India",India
+238,Fadi M. Al-Turjman,"Near East University, Mersin, North Cyprus",North Cyprus
+239,Prosper Chemouil,"Orange Labs, Châtillon, France",France
+240,Rolf Stadler,"Royal Institute of Technology, Stockholm, Sweden",Sweden
+241,Pan Hui 0001,"University of Helsinki, Department of Computer Science, Finland",Finland
+242,Yonggang Wen 0001,"Nanyang Technological University, Singapore",Singapore
+243,Gerhard P. Hancke 0001,"Nanjing University of Posts and Telecommunications, School of Automation, Nanjing, China",China
+244,Jian Wang 0001,"Huawei Technologies, Shenzhen, China",China
+245,Jun Wang 0062,"Huawei Technologies, Hangzhou Research Center, China",China
+246,Ulrich Furbach,"University of Koblenz and Landau, Germany",Germany
+247,Ernesto Damiani,"University of Milan, Italy",Italy
+248,Fei Wu 0001,"Zhejiang University, College of Computer Science and Technology, Hangzhou, China",China
+249,Hao Chen 0011,"The Hong Kong University of Science and Technology, China",China
+250,Ming Li 0005,"Nanjing University, National Key Laboratory for Novel Software Technology, China",China
+251,Zhongyuan Wang 0006,"Meituan-Dianping Group, Beijing, China",China
+252,Cewu Lu,"Shanghai Jiao Tong University, Department of Computer Science and Engineering, China",China
+253,Jun Zhu 0001,"Tsinghua University, State Key Laboratory of Intelligent Technology and Systems, TNList, Beijing, China",China
+254,Xi Li 0001,"Zhejiang University, College of Computer Science and Technology, China",China
+255,Damminda Alahakoon,"Monash University, Melbourne, Australia",Australia
+256,David Windridge,"Middlesex University London, UK",United Kingdom
+257,Peng Yu 0001,"Beijing University of Posts and Telecommunications, State Key Laboratory of Networking and Switching Technology, China",China
+258,Shuai Han 0002,"Harbin Institute of Technology, China",China
+259,Tao Hong 0004,"Beihang University, School of Electronics and Information Engineering, Beijing, China",China
+260,Nassir Navab,"Technical University Munich, Germany",Germany
+261,Wenzhong Shi,"Hong Kong Polytechnic University",Hong Kong
+262,Hiram Calvo,"Instituto Politécnico Nacional, Centro de Investigación en Computación, México",Mexico
+263,Mingchu Li,"Dalian University of Technology, School of Software, Dalian, China",China
+264,Micael S. Couceiro,"University of Coimbra, Institute of Systems and Robotics, Portugal",Portugal
+265,Antonio F. Skarmeta,"University of Murcia, Department of Information and Communication Engineering",Spain
+266,Josiane Xavier Parreira,"Siemens AG Austria",Austria
+267,Bram Adams,"Polytechnique Montreal, Canada",Canada
+268,Qing Wang 0001,"Chinese Academy of Sciences, Institute of Software, Laboratory for Internet Software Technologies, Beijing, China",China
+269,Yoshua Bengio,"University of Montréal, Department of Computer Science and Operations Research, QC, Canada",Canada
+270,Alexandre Lacoste,"Université Laval",Canada
+271,Kim-Kwang Raymond Choo,"University of Texas at San Antonio, USA",United States
+272,Mo M. Jamshidi,"University of Texas at San Antonio, Autonomous Control Engineering Laboratory, TX, USA",United States
+273,Witold Pedrycz,"University of Alberta, Edmonton, Canada",Canada
+274,Sen Liu 0007,"University of Electronic Science and Technology of China, Chengdu, China",China
+275,Muhammad Ali Imran 0001,"University of Glasgow, James Watt School of Engineering, Glasgow, UK",United Kingdom
+276,Jianhua Li 0001,"Shanghai Jiao Tong University, Shanghai Key Laboratory of Integrated Administration Technologies for Information Security, China",China
+277,Feng Qian 0004,"East China University of Science and Technology, MOE Key Laboratory of Advanced Control and Optimization for Chemical Process, Shanghai, China",China
+278,James Xi Zheng,"Macquarie University, Department of Computing, Australia",Australia
+279,Meikang Qiu,"Texas A&M University Commerce, Department of Computer Science, TX, USA",United States
+280,Wei Wei 0006,"Xi'an University of Technology, School of Computer Science and Engineering, China",China
+281,Yao Zhang 0005,"Xidian University, State Key Laboratory of Integrated Services Networks, Xi'an, China",China
+282,João Battista Camargo Junior,"University of São Paulo, São Paulo, Brazil",Brazil
+283,Jie Li 0002,"Zhengzhou University, School of Cyber Science and Engineering, China",China
+284,Chonggang Wang,"InterDigital Communications, USA",United States
+285,Jing Qiu 0002,"Guangzhou University, Cyberspace Institute of Advanced Technology, China",China
+286,Zheng Chang 0001,"University of Jyväskylä, Faculty of Mathematical Information Technology, Finland",Finland
+287,Mugen Peng,"Beijing University of Posts and Telecommunications, State Key Laboratory of Networking and Switching Technology, China",China
+288,Tony Q. S. Quek,"Singapore University of Technology and Design, Singapore",Singapore
+289,Hao Chen 0010,"Samsung Research America, Inc., Richardson, TX, USA",United States
+290,Jianzhong Zhang 0002,"Samsung Research America, Plano, TX, USA",United States
+291,Cheng-Xiang Wang 0001,"Southeast University, School of Information Science and Engineering, National Mobile Communications Research Laboratory, Nanjing, China",China
+292,Slawomir Stanczak,"TU Berlin",Germany
+293,Khaled Salah 0001,"Khalifa University of Science Technology: Abu Dhabi, United Arab Emirates",United Arab Emirates
+294,Miriam Fernández,"The Open University, UK",United Kingdom
+295,Claudia Wagner 0001,"RWTH Aachen University, Germany",Germany
+296,Salvatore Ruggieri,"University of Pisa, Italy",Italy
+297,Maria-Esther Vidal,"TIB Leibniz Information Centre for Science and Technology, Hannover, Germany",Germany
+298,Ioannis Kompatsiaris,"Centre for Research and Technology Hellas, Information Technologies Institute (CERTH-ITI)",Greece
+299,Thanassis Tiropanis,"University of Southampton, UK",United Kingdom
+300,Wolfgang Nejdl,"University of Hanover, Germany",Germany
+301,Franco Turini,"University of Pisa, Italy",Italy
+302,Bettina Berendt,"TU Berlin, Germany",Germany
+303,Steffen Staab,"Universität Stuttgart, Germany",Germany
+304,Eirini Ntoutsi,"Leibniz University Hannover, Germany",Germany
+305,Fariba Karimi 0001,"GESIS - Leibniz Institute for the Social Sciences, Cologne, Germany",Germany
+306,Md. Abdur Razzaque,"University of Dhaka, Bangladesh",Bangladesh
+307,Eros Pasero,"Polytechnic University of Turin, Department of Electronics and Telecommunications",Italy
+308,Anna Esposito,"Università della Campania ""Luigi Vanvitelli"", Department of Psychology, Caserta, Italy",Italy
+309,Linda Zhang 0003,"MIT CSAIL, Cambridge, MA, USA",United States
+310,George Mastorakis,"Technological Educational Institute of Crete, Heraklion, Greece",Greece
+311,Victor C. M. Leung,"Shenzhen University, Shenzhen, China",China
+312,El-Ghazali Talbi,"University of Lille 1, France",France
+313,Zhiyuan Liu 0001,"Tencent Inc, AI Platform Department, Shenzhen, China",China
+314,Mohammed Khalaf 0001,"Al-Maarif University College, Ramadi, Iraq",Iraq
+315,Jean-Louis Dessalles,"Telecom Paris, France",France
+316,Ashraf Darwish,"Helwan University, Faculty of Science, Scientific Research Group in Egypt, Cairo, Egypt",Egypt
+317,Duncan C. McElfresh,"University of Maryland, College Park, MD, USA",United States
+318,Eva Irene Brooks,"Aalborg University, Denmark",Denmark
+319,Edwin H.-M. Sha,"Chongqing University, Key Laboratory of Dependable Service Computing in Cyber Physical Society, China",China
+320,Marco X. Bornschlegl,"University of Hagen, Germany",Germany
+321,Mufti Mahmud,"University of Padova, Italy",Italy
+322,Luca Longo,"Trinity College Dublin, Dublin Institute of Technology, Ireland",Ireland
+323,Yang Li 0058,"Google Research, Mountain View, CA, USA",United States
+324,Spyridon Samothrakis,"University of Essex, UK",United Kingdom
+325,José Oramas M.,"Catholic University of Leuven, Belgium",Belgium
+326,Niloufar Shoeibi,"University of Salamanca, Spain",Spain
+327,Kuang-hua Chen,"National Taiwan University, Department of Library and Information Science",Taiwan
+328,Rainer Schmidt 0001,"Munich University of Applied Sciences, Germany",Germany
+329,Saptarshi Ghosh 0001,"Indian Institute of Technology Kharagpur, India",India
+330,Javier Andreu-Perez,"University of Essex, Colchester, UK",United Kingdom
+331,Oscar Serradilla-Casado,"Mondragon University, Mondragon, Spain",Spain
+332,Paulo Martins 0001,"University of Trás-os-Montes and Alto Douro, Vila Real, Portugal",Portugal
+333,Le Sun 0003,"Nanjing University of Information Science and Technology, School of Computer and Software, China",China
+334,Vishal Sharma 0005,"Utah State University, Plant, Soils and Climate Department, Logan, UT, USA",United States
+335,Jing Wang 0058,"Guangzhou Library, Guangzhou, China",China
+336,Sebastian Feld,"TU Delft, The Netherlands",Netherlands
+337,Dror Goldenberg,"NVIDIA, Israel",Israel
+338,M. M. E. Alemany,"Universitat Politècnica de València, Spain",Spain
+339,Mary M. Hayhoe,"The University of Texas at Austin, TX, USA",United States
+340,Stefano Marrone 0001,"University of Campania Luigi Vanvitelli, Naples, Italy",Italy
+341,Ling Guan,"Ryerson University, Toronto, Canada",Canada
+342,Alexander N. Gorban,"University of Leicester, Department of Mathematics, UK",United Kingdom
+343,Rohan Mukherjee 0003,"Goa Institute of Management, India",India
+344,Xin Liang 0003,"Beijing University of Posts and Telecommunications, School of Artificial Intelligence, Beijing, China",China
+345,Jakub Kuzilek,"Humboldt University of Berlin, Department of Computer Science, Germany",Germany
+346,Jürgen Ziegler 0001,"University of Duisburg-Essen, Department of Computer Science and Applied Cognitive Science",Germany
+347,Angelo Galiano 0001,"Dyrecta Lab, Conversano, Italy",Italy
+348,Gerardo Sierra,"National Autonomous University of Mexico (UNAM), Institute of Engineering, Mexico City, Mexico",Mexico
+349,Xin Wang 0019,"Tsinghua University, Department of Computer Science and Technology, China",China
+350,Thomas Zimmermann 0001,"Microsoft Research, Redmond, WA, USA",United States
+351,Yousra Bendaly Hlaoui,"University of Tunis-Elmaner, Tunisia",Tunisia
+352,Miguel Rocha 0001,"University of Minho, Center of Biological Engineering, Braga, Portugal",Portugal
+353,Danilo Dessì,"GESIS - Leibniz-Institut für Sozialwissenschaften, Cologne, Germany",Germany
+354,Harvey P. Siy,"University of Nebraska Omaha, USA",United States
+355,Anh Nguyen-Duc 0001,"University of South-Eastern Norway, School of Business, Bø, Telemark, Norway",Norway
+356,Liang Chang 0003,"Guilin University of Electronic Technology, Guilin, China",China
+357,Fatih Kurugollu,"Queen's University Belfast, UK",United Kingdom
+358,Wendy Hall 0001,"University of Southampton, UK",United Kingdom
+359,Benjamin van Giffen,"University of St. Gallen, Switzerland",Switzerland
+360,Francesco Schiliro,"Australian Federal Police (AFP), Canberra, ACT, Australia",Australia
+361,Vítor Santos Costa,"University of Porto, Portugal",Portugal
+362,Zhou He 0003,"University of Maryland, Center for Advanced Life Cycle Engineering, College Park, MD, USA",United States
+363,Wei Quan 0001,"Beijing Jiaotong University, Beijing, China",China
+364,Lei Yu 0015,"Anhui University of Chinese Medicine, School of Medical Information Technology, Hefei, China",China
+365,Karuna P. Joshi,"University of Maryland, USA",United States
+366,Lucio Studer Ferreira,"INESC-ID, Portugal",Portugal
+367,Jianhui Wu 0003,"North China University of Science and Technology, School of Public Health, Tangshan, China",China
+368,Mohamed Hamed N. Taha,"Cairo University, Faculty of Computers and Information, Giza, Egypt",Egypt
+369,Jesús Ariel Carrasco-Ochoa,"Computer Science Department, National Institute for Astrophysics, Optics and Electronics, Puebla, Mexico",Mexico
+370,Xiaodong Jia 0001,"University of Cincinnati, NSF I/UCR Center for Intelligent Maintenance Systems, OH, USA",United States
+371,N. Z. Jhanjhi,"King Faisal University, Saudi Arabia",Saudi Arabia
+372,Junan Yang,"National University of Defense Technology, College of Electronic Engineering, Hefei, China",China
+373,Lirong Zheng 0001,"Fudan University, State Key Laboratory of ASIC and System, Shanghai, China",China
+374,Yin Zhang 0002,"University of Electronic Science and Technology of China, Chengdu, China",China
+375,Daniele Magazzeni,"King's College London, Department of Informatics",United Kingdom
+376,David D. Cox,"MIT-IBM Watson AI Lab, Cambridge, MA, USA",United States
+377,John A. McDermid,"University of York, Department of Computer Science, UK",United Kingdom
+378,Arunesh Sinha,"Rutgers University, NJ, USA",United States
+379,Wei Zeng 0003,"Longyan University, School of Mechanical and Electrical Engineering, Longyan, China",China
+380,Hoang Nguyen 0001,"Hanoi University of Mining Land Geology, Hanoi, Vietnam",Vietnam
+381,Jean Robert Kala Kamdjoug,"ESSCA School of Management, Angers, France",France
+382,Dorothy E. Denning,"Naval Postgraduate School, Department of Defense Analysis, Monterey, CA, USA",United States
+383,Dragan Gasevic,"Monash University, Australia",Australia
+384,M. Lynne Markus,"Bentley University, Waltham, MA, USA",United States
+385,Suneet K. Gupta 0001,"Bennett University, Greater Noida, India",India
+386,Eleonora Riva 0001,"University of Milan, Italy",Italy
+387,Hong Shen 0001,"Sun Yat-sen University, School of Data and Computer Science, Guangzhou, China",China
+388,Arun Kumar Sangaiah,"Vellore Institute of Technology, India",India
+389,Hui Li 0033,"Beijing University of Posts and Telecommunications, Beijing Laboratory of Advanced Information Network, China",China
+390,Xudong Zhao 0006,"Beijing University of Posts and Telecommunications, State Key Laboratory of Information Photonics and Optical Communications, Beijing, China",China
+391,Yang Yi 0002,"Virginia Tech, Department of Electrical and Computer Engineering, Blacksburg, VA, USA",United States
+392,Amandeep Kaur 0003,"Guru Nanak Dev University, Gurdaspur, India",India
+393,Xavier Pérez Costa,"NEC Laboratories Europe GmbH, Heidelberg, Germany",Germany
+394,Yun Zhang 0019,"University of Electronic Science and Technology of China, Innovation Center of Advanced Pharmaceuticals and Artificial Intelligence, School of Information and Software Engineering, Chengdu, China",China
+395,Peng Sun 0007,"Duke Kunshan University, Jiangsu, China",China
+396,Shaobo Zhang 0001,"Hunan University of Science and Technology, Xiangtan, China",China
+397,Liming Chen 0001,"De Montfort University, Leicester, UK",United Kingdom
+398,Max Welling,"University of Amsterdam, Informatics Institute, The Netherlands",Netherlands
+399,Sergey Serebryakov,"Hewlett Packard Enterprise Labs, Palo Alto, CA, USA",United States
+400,Xavier Ferrer Aran,"Kings College London, UK",United Kingdom
+401,Jon Pérez 0001,"IK4-IKERLAN Research Centre, Mondragon, Spain",Spain
+402,John E. Wenskovitch,"Virginia Tech, Department of Computer Science, Blacksburg, VA, USA",United States
+403,Jason R. C. Nurse,"University of Oxford",United Kingdom
+404,Pedro Santos 0001,"University of Lisbon, INESC-ID / Instituto Superior Técnico, Portugal",Portugal
+405,Teresa Serrano-Gotarredona,"Spanish National Research Council, CSIC, Spain",Spain
+406,Chuan Zhang 0001,"Southeast University, Nanjing, China",China
+407,Themis Palpanas,"Paris Descartes University, France",France
+408,Farman Ali 0001,"Sejong University, Seoul, Korea",South Korea
+409,Sushil Kumar Singh 0001,"Seoul National University of Science and Technology, Department of Computer Science & Engineering, South Korea",South Korea
+410,James B. Aimone,"Sandia National Laboratories, USA",United States
+411,Marieke van Erp,"KNAW Humanities Cluster - DHLab, Amsterdam, The Netherlands",Netherlands
+412,Luís Soares Barbosa,"Universidade do Minho, Braga, Portugal",Portugal
+413,Grant McKenzie,"University of Maryland, College Park, USA",United States
+414,Haiyi Zhu,"University of Minnesota, Minneapolis, MN, USA",United States
+415,Siuly Siuly,"Victoria University, Melbourne, Australia",Australia
+416,Timothy J. Norman,"University of Southampton, UK",United Kingdom
+417,Ataollah Shirzadi,"University of Kurdistan, Faculty of Natural Resources, Sanandaj, Iran",Iran
+418,Yudong Zhang 0001,"University of Leicester, Department of Informatics, UK",United Kingdom
+419,Kerstin Bunte,"University of Groningen, Bernoulli Institute, The Netherlands",Netherlands
+420,Visvanathan Ramesh,"Goethe University Frankfurt, Center for Cognition and Computation, Frankfurt am Main, Germany",Germany
+421,Chen Fu Chien 0001,"National Tsing Hua University, Department of Industrial Engineering and Engineering Management, Taiwan",Taiwan
+422,Francisco Herrera,"University of Granada, Department of Computer Science and Artificial Intelligence",Spain
+423,Lei Yang 0001,"University of Nevada, Reno, Department of Computer Science and Engineering, NV, USA",United States
+424,Schahram Dustdar,"TU Wien, Vienna, Austria",Austria
+425,Bin Guo 0001,"Northwestern Polytechnical University, School of Computer Science, Xi'an, China",China
+426,Xiaolei Zhou 0001,"National University of Defense Technology, The Sixty-Third Research Institute, Changsha, China",China
+427,Min Tan 0005,"Hangzhou Dianzi University, School of Computer Science and Technology, Key Laboratory of Complex Systems Modeling and Simulation, China",China
+428,Sukhpal Singh,"Queen Mary University of London, UK",United Kingdom
+429,Joscha Bach,"Intel Labs, Santa Clara, CA, USA",United States
+430,Javier Prieto 0001,"University of Salamanca, BISITE Digital Innovation Hub, Spain",Spain
+431,Joseph Aylett-Bullock,"United Nations, New York, NY, USA",United States
+432,Marco Lippi 0001,"University of Modena and Reggio Emilia (Unimore), Italy",Italy
+433,Hamid K. Aghajan,"Sharif University of Technology, Tehran, Iran",Iran
+434,Jiang Bian 0001,"University of Florida, Department of Health Outcomes and Biomedical Informatics, Gainesville, FL, USA",United States
+435,William T. Kramer,"University of Illinois at Urbana-Champaign, IL, USA",United States
+436,Timothy J. O'Shea,"Virginia Tech, Arlington, USA",United States
+437,Yu Liu 0035,"Dalian University of Technology, School of Software Technology, Key Laboratory for Ubiquitous Network and Service Software of Liaoning Province, Dalian, China",China
+438,Xin Li 0091,"Huazhong University of Science and Technology, Wuhan, China",China
+439,Balamurugan Balusamy,"Galgotias University, School of Computer Science and Engineering, Greater Noida, India",India
+440,Wolfgang Kellerer,"Technical University Munich, Germany",Germany
+441,Adnan M. Abu-Mahfouz,"University of Pretoria, South Africa",South Africa
+442,Rong Li 0001,"Huawei Technologies Co., Hangzhou Research Center, China",China
+443,Wolfgang Bibel,"Darmstadt University of Technology, Germany",Germany
+444,Yujie Li 0001,"Yangzhou University, Yangzhou, China",China
+445,Burak Kantarci,"University of Ottawa, Canada",Canada
+446,Kai Yu 0004,"Shanghai Jiao Tong University, Computer Science and Engineering Department, China",China
+447,Naveen K. Chilamkurti,"La Trobe University, Department of Computer Science and Computer Engineering, Melbourne, Australia",Australia
+448,Swagatam Das,"Indian Statistical Institute, Kolkata, India",India
+449,Feng Qi 0004,"Beijing University of Posts and Telecommunications, State Key Laboratory of Networking and Switching Technology, China",China
+450,Jiajia Liu 0001,"Northwestern Polytechnical University, National Engineering Laboratory for Integrated Aero-Space-Ground-Ocean Big Data Application Technology, School of Cybersecurity, Xi'an, China",China
+451,Fan Zhang 0042,"University of Science and Technology Beijing, School of Computer and Communication Engineering, China",China
+452,Jun Zhao 0007,"Nanyang Technological University, School of Computer Science and Engineering, Singapore",Singapore
+453,Tom Vercauteren,"University College London (UCL), UK",United Kingdom
+454,Shahab S. Band,"National Yunlin University of Science and Technology, Future Technology Research Center, Douliu, Taiwan",Taiwan
+455,Min Zhang 0032,"Wuhan University, School of Remote Sensing and Information Engineering, China",China
+456,Sergio Márquez Sánchez,"University of Salamanca, Spain",Spain
+457,Carlos A. Duchanoy,"Instituto Politécnico Nacional, Cátedra CONACyT, México City, México",Mexico
+458,Yuanfang Chen,"Télécom SudParis, Institut Mines-Télécom, Évry, France",France
+459,Rui Mendes 0003,"Polytechnic Institute of Coimbra, Portugal",Portugal
+460,Aitor Arnaiz 0001,"Basque Research and Technology Alliance (BRTA), TEKNIKER, Eibar, Spain",Spain
+461,Foutse Khomh,"Polytechnique Montreal, Canada",Canada
+462,Junjie Wang 0001,"Chinese Academy of Sciences, Laboratory for Internet Software Technologies, Institute of Software, Beijing, China",China
+463,Victor Schmidt,"Université de Montréal (UdeM), QC, Canada",Canada
+464,Peyman Najafirad,"The University of Texas at San Antonio, One UTSA Circle, San Antonio, TX, USA",United States
+465,Hongwei Li 0001,"University of Electronic Science and Technology of China, School of Computer Science and Engineering, Chengdu, China",China
+466,Ali Imran 0001,"University of Oklahoma, Norman, OK, USA",United States
+467,Jun Wu 0001,"Shanghai Jiao Tong University, Shanghai Key Laboratory of Integrated Administration Technologies for Information Security, China",China
+468,Biao Huang 0001,"University of Alberta, Department of Chemical and Materials Engineering, Edmonton, AB, Canada",Canada
+469,Mohsen Guizani,"Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI), Doha, Qatar",Qatar
+470,F. Richard Yu,"Carleton University, Ottawa, Canada",Canada
+471,Jorge Rady de Almeida Jr.,"University of São Paulo, Brazil",Brazil
+472,Bin Hu 0001,"Lanzhou University, School of Information Science and Engineering, China",China
+473,Sami Muhaidat,"Khalifa University of Science Technology and Research, Abu Dhabi",United Arab Emirates
+474,Shiwen Mao,"Auburn University, USA",United States
+475,Zhiguo Ding 0001,"University of Manchester, School of Electrical and Electronic Engineering, UK",United Kingdom
+476,Jeffrey H. Reed,"Virginia Tech, Blacksburg, Department of Electrical and Computer Engineering",United States
+477,Sen Wang 0002,"Heriot-Watt University, Institute of Sensors, Signals and Systems, Edinburgh, UK",United Kingdom
+478,Mohamed Nassar 0001,"University of New Haven, West Haven, CT, USA",United States
+479,Katharina Kinder-Kurlanda,"GESIS, Germany",Germany
+480,Aisha-Hassan A. Hashim,"International Islamic University Malaysia, Kuala Lumpur, Malaysia",Malaysia
+481,Francesco Carlo Morabito,"Mediterranean University of Reggio Calabria, Italy",Italy

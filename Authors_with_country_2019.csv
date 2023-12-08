@@ -1,0 +1,314 @@
+Index,Name,Affiliation,Country
+0,"Miguel Ángel Vázquez","Centre Tecnològic de Telecomunicacions de Catalunya, Spain",Spain
+0,"Mérouane Debbah","Khalifa University, Abu Dhabi, United Arab Emirates",United Arab Emirates
+2,"Mong-Li Lee","National University of Singapore (NUS)",Singapore
+6,"Wynne Hsu","National University of Singapore (NUS)",Singapore
+8,"Daniel S. W. Ting","Duke-National University of Singapore (NUS) Medical School, Singapore",Singapore
+12,"Quang Duc Nguyen 0001","Singapore Eye Research Institute, Singapore",Singapore
+14,"Huiru Zheng","Ulster University, UK",United Kingdom
+14,"Jun Liu 0001","University of Ulster, Jordanstown, UK",United Kingdom
+16,"Haiying Wang 0001","Ulster University, School of Computing, UK",United Kingdom
+20,"Shuenn-Yuh Lee","National Cheng Kung University, Department of Electrical Engineering, Tainan, Taiwan",Taiwan
+20,"Peng-Wei Huang","National Cheng Kung University, Tainan City, Taiwan",Taiwan
+22,"Dario Amaya","Nueva Granada Military University, Faculty of Engineering, Bogotá, Colombia",Colombia
+22,"Camilo Cáceres","University of Campinas, School of Mechanical Engineering, Brazil",Brazil
+24,"Ayan Banerjee 0001","Arizona State University, Tempe, AZ, USA",United States
+24,"Sandeep K. S. Gupta","Arizona State University, Tempe, Institute of Sustainability",United States
+26,"Piotr Mirowski","DeepMind, London, UK",United Kingdom
+26,"Kory W. Mathewson","DeepMind, London, UK",United Kingdom
+28,"Sanjit A. Seshia","University of California, Berkeley, USA",United States
+28,"Daniel J. Fremont","University of California, Santa Cruz, CA, USA",United States
+30,"Battista Biggio","University of Cagliari, Italy",Italy
+30,"Sadia Afroz 0001","University of California Berkeley, ICSI, USA",United States
+32,"Yuval Elovici","Telekom Innovation Laboratories at Ben-Gurion University of the Negev, Beer-Sheva, Israel",Israel
+36,"Vinícius Lima 0001","University of São Paulo, Medical School, Brazil",Brazil
+36,"Filipe Andrade Bernardi","University of São Paulo, Medical School, SP, Brazil",Brazil
+38,"Rui Rijo","Polytechnic Institute of Leiria, ESTG, Leiria, Portugal",Portugal
+42,"Lingyu Zhang 0001","Didi Chuxing AI Labs, Beijing, China",China
+42,"Weinan Zhang 0001","Shanghai Jiao Tong University, John Hopcroft Center for Computer Science, China",China
+44,"Yang Zhang 0031","University of Illinois Urbana-Champaign, School of Information Sciences, IL, USA",United States
+44,"Daniel Yue Zhang","University of Notre Dame, IN, USA",United States
+46,"Dong Wang 0002","University of Illinois at Urbana-Champaign, Urbana, IL, USA",United States
+50,"Louis-Philippe Morency","Carnegie Mellon University",United States
+50,"Amir Zadeh 0001","Carnegie Mellon University, Language Technologies Institute, Pittsburgh, PA, USA",United States
+52,"Terry Heath","IBM T.J. Watson Research Center, Yorktown Heights, USA",United States
+52,"Kanthi K. Sarpatwar","IBM Thomas J. Watson Research Center, Yorktown Heights, NY, USA",United States
+54,"Venkata Sitaramagiridharganesh Ganapavarapu","IBM Research",United States
+58,"Arnab Bhattacharya 0001","Indian Institute of Technology (IIT), Kanpur",India
+60,"Saptarshi Ghosh 0001","Indian Institute of Technology Kharagpur, India",India
+60,"Parth Mehta 0001","Parmonic, USA",United States
+64,"Arindam Pal 0001","University of New South Wales, Sydney, NSW, Australia",Australia
+70,"Andrea Orlandini","National Research Council of Italy, Institute of Cognitive Sciences and Technologies, Rome, Italy",Italy
+70,"Alessandro Umbrico","Roma Tre University, Rome, Italy",Italy
+72,"Gabriella Cortellessa","National Research Council, Italy",Italy
+74,"Amedeo Cesta","National Research Council, Italy",Italy
+82,"Carson K. Leung","University of Manitoba, Winnipeg, Canada",Canada
+82,"Giorgio Mario Grasso","Università degli Studi di Messina, Italy",Italy
+84,"Alfredo Cuzzocrea","University of Calabria, IDEA Lab, Cosenza, Italy",Italy
+88,"Robert A. Malaney","University of New South Wales, Sydney, NSW, Australia",Australia
+88,"Ullah Ihsan 0001","University of New South Wales, Sydney, NSW, Australia",Australia
+90,"Jianhua Li 0001","Shanghai Jiao Tong University, Shanghai Key Laboratory of Integrated Administration Technologies for Information Security, China",China
+92,"Joel J. P. C. Rodrigues","Federal University of Piauí (UFPI), Teresina - Pi, Brazil",Brazil
+92,"Jun Wu 0001","Shanghai Jiao Tong University, Shanghai Key Laboratory of Integrated Administration Technologies for Information Security, China",China
+96,"Johannes Schemmel","University of Heidelberg, Germany",Germany
+98,"Mihai A. Petrovici","Heidelberg University, Kirchhoff Institute for Physics, Germany",Germany
+100,"Eric Müller 0001","Heidelberg University, Germany",Germany
+102,"Aderemi Aaron-Anthony Atayero","Covenant University, Department of Electrical Engineering and Information Engineering, Canaanland, Nigeria",Nigeria
+102,"Sanjay Misra","Covenant University, Ota, Nigeria",Nigeria
+104,"Hua Fang 0001","University of Massachusetts Dartmouth, Department of Computer and Information Science, Dartmouth, MA, USA",United States
+104,"Honggang Wang 0001","University of Massachusetts Dartmouth, MA, USA",United States
+106,"Yu Liu 0035","Dalian University of Technology, School of Software Technology, Key Laboratory for Ubiquitous Network and Service Software of Liaoning Province, Dalian, China",China
+108,"Shimin Shan","Dalian University of Technology, Liaoning, China",China
+110,"Kai Wang 0057","Dalian University of Technology, China",China
+112,"Jaehong Kim 0001","Electronics and Telecommunications Research Institute, Daejeon, South Korea",South Korea
+112,"Yejin Lee 0003","Korea University of Science and Technology, Daejeon, Korea",South Korea
+114,"Tung Lam Pham","Kookmin University, Seongbuk-gu, South Korea",South Korea
+114,"Minh Duc Thieu","Kookmin University, Seongbuk-gu, South Korea",South Korea
+116,"Constantinos Sourkounis","Ruhr University Bochum, Germany",Germany
+116,"Johnny Chhor","Ruhr University Bochum, Germany",Germany
+118,"Haoran Xie 0001","Lingnan University, Department of Computing and Decision Sciences, Hong Kong",Hong Kong
+118,"Jun Yan 0010","Yidu Cloud Technology Co. Ltd., Beijing, China",China
+120,"Alexander E. Gegov","University of Portsmouth, School of Computing",United Kingdom
+120,"David A. Sanders","University of Portsmouth, School of Engineering",United Kingdom
+122,"Mohamed Hassan 0001","University of Portsmouth, School of Energy and Electronic Engineering, UK",United Kingdom
+126,"Gerhard P. Hancke 0001","Nanjing University of Posts and Telecommunications, School of Automation, Nanjing, China",China
+128,"Adnan M. Abu-Mahfouz","University of Pretoria, South Africa",South Africa
+130,"Daniel T. Ramotsoela","University of Pretoria, Department of Electrical, Electronic and Computer Engineering, South Africa",South Africa
+138,"Thomas Wiegand","Fraunhofer Institute for Telecommunications, Heinrich Hertz Institute (HHI), Berlin, Germany",Germany
+138,"Markus Wenzel 0002","Fraunhofer-Institut für Nachrichtentechnik, Heinrich-Hertz-Institut, Berlin, Germany",Germany
+140,"Hannu Jaakkola","Tampere University of Technology, Finland",Finland
+140,"Bernhard Thalheim","University of Kiel, Germany",Germany
+142,"Jun Feng 0001","Hohai University, College of Computer and Information Engineering, Nanjing, China",China
+142,"Xiaodong Li 0007","Hohai University, School of Computer and Information, Nanjing, China",China
+144,"Sébastien Gérard","Atomic Energy and Alternative Energies Commission, CEA - Laboratory of Research on Software-intensive Technologies (LIST), France",France
+144,"Loli Burgueño","University of Málaga, Spain",Spain
+146,"Manuel Wimmer","Johannes Kepler University Linz, Austria",Austria
+150,"Gunter Mussbacher","McGill University, Canada",Canada
+150,"Rijul Saini","McGill University, Montreal, Quebec, Canada",Canada
+152,"Jörg Kienzle","McGill University, Montreal, Canada",Canada
+156,"Jin L. C. Guo","McGill University, Montreal, PQ, Canada",Canada
+162,"Ihsan Ullah 0002","National University of Ireland, Galway, Ireland",Ireland
+162,"Michael G. Madden","National University of Ireland, School of Computer Science, Galway, Ireland",Ireland
+164,"Luis G. Nardin","Brandenburg University of Technology, Cottbus, Germany",Germany
+164,"Arnoud Visser","University of Amsterdam, Netherlands",Netherlands
+166,"Jacques Robin","Federal University of Pernambuco, Recife, Brazil",Brazil
+166,"Daniel Diaz","University of Paris 1, France",France
+168,"Marcus Liwicki","Luleå University of Technology, Sweden",Sweden
+168,"Rolf Ingold","University of Fribourg, Switzerland",Switzerland
+170,"Rajesh Bordawekar","IBM Thomas J. Watson Research Center, Yorktown Heights, NY, USA",United States
+170,"Oded Shmueli","Technion - Israel Institute of Technology, Haifa, Israel",Israel
+172,"Zhuang Chen 0001","Guilin University of Electronic Technology, Guilin, China",China
+172,"Lei Liu 0031","Xidian University, State Key Laboratory of Integrated Service Networks, Xi'an, China",China
+174,"Raghunath Othayoth Nambiar","Cisco Systems, Inc",United States
+174,"Shahram Ghandeharizadeh","University of Southern California, Los Angeles, USA",United States
+176,"Yun Li 0002","Dongguan University of Technology, College of Computer Science and Technology, China",China
+176,"Yi Chen 0020","Newcastle University, School of Engineering, Newcastle upon Tyne, UK",United Kingdom
+178,"Vijay Kumar Devabhaktuni","Purdue University Northwest, Hammond,IN, USA",United States
+178,"Devinder Kaur 0001","University of Toledo, Toledo, OH, USA",United States
+180,"Zahoor Ali Khan","Higher Colleges of Technology, Abu Dhabi, UAE",United Arab Emirates
+180,"Muhammad Shafiq 0002","Yeungnam University, Department of Information and Communication Engineering, Gyeongsan, South Korea",South Korea
+182,"Nadeem Javaid","COMSATS University Islamabad, Department of Computer Science, Pakistan",Pakistan
+186,"Qiang Liu 0020","Beijing Jiaotong University, Beijing Key Laboratory of Transportation Data Analysis and Mining, China",China
+186,"Jun Yang 0014","Huazhong University of Science and Technology, School of Computer Science and Technology, Wuhan, China",China
+188,"Aleksandr Ometov","Tampere University of Technology, Finland",Finland
+188,"Yevgeni Koucheryavy","Tampere University of Technology, Finland",Finland
+190,"Sergey Andreev 0001","Tampere University of Technology, Finland",Finland
+194,"Khan Muhammad 0001","Sungkyunkwan University, College of Computing and Informatics, VIS2KNOW Lab, Seoul, South Korea",South Korea
+200,"Raghvendra Kumar 0001","LNCT College, Computer Science and Engineering Department, Jabalpur, Madhya Pradesh, India",India
+200,"Mohamed Abdel-Basset","Zagazig University, Department of Operations Research, Egypt",Egypt
+202,"Marley M. B. R. Vellasco","Pontifical Catholic University of Rio de Janeiro (PUC-Rio), Department of Electrical Engineering",Brazil
+204,"Kennedy Edson Souza","Federal University of Pará, Electrical Engineering Department, Brazil",Brazil
+208,"Harold D. de Mello Jr.","Rio de Janeiro State University, Department of Electrical Engineering, Brazil",Brazil
+210,"Daniel da S. Souza","Federal University of Pará, Belém, Federal University of Pará, Belém, Brazil, Brazil",Brazil
+214,"Wei Zhang 0138","Hangzhou Dianzi University, Department of Computer Science and Technology, China",China
+214,"Jian Wan 0001","Zhejiang University of Science and Technology, School of Information and Electronic Engineering, Hangzhou, China",China
+216,"Naixue Xiong","Sul Ross State University, Department of Computer, Mathematical and Physical Sciences, Alpine, TX, USA",United States
+220,"Geoffrey Ye Li","Imperial College London, UK",United Kingdom
+222,"Jing Zhang 0031","Southeast University, National Mobile Communications Research Laboratory, Nanjing, China",China
+224,"Shi Jin 0002","Southeast University, National Mobile Communications Research Laboratory, Nanjing, China",China
+226,"Sara Nasiri","University of Siegen, Germany",Germany
+226,"Kerstin Weinberg","Universität Siegen, Germany",Germany
+228,"Adam Z. Wyner","Swansea University, Department of Computer Science and School of Law, UK",United Kingdom
+228,"Livio Robaldo","University of Swansea, UK",United Kingdom
+230,"Serena Villata","CNRS, France",France
+234,"Roozbeh Mottaghi","AI2, Allen Institute for Artificial Intelligence, Seattle, USA",United States
+236,"Mauricio Castillo-Effen","Universidad Católica Boliviana",Bolivia
+238,"Xiaowei Huang 0001","University of Liverpool, UK",United Kingdom
+240,"José Hernández-Orallo","Polytechnic University of Valencia, Spain",Spain
+242,"Christopher W. Geib","SIFT LLC",United States
+246,"Arash Shaban-Nejad","University of Tennessee Health Science Center, USA",United States
+248,"Julian Togelius","New York University, New York, USA",United States
+250,"Koichiro Yoshino","Nara Institute of Science and Technology (NAIST), Ikoma, Japan",Japan
+284,"Julian J. McAuley","University of California, San Diego, Department of Computer Science and Engineering, CA, USA",United States
+288,"Mausam","Indian Institute of Technology Delhi",India
+304,"William W. Streilein","Massachusetts Institute of Technology",United States
+318,"Joseph C. Osborn","University of California, Santa Cruz, CA, USA",United States
+328,"Onn Shehory","Thomas J. Watson Research Center, Yorktown Heights, USA",United States
+382,"Seán Ó hÉigeartaigh","University of Cambridge, Centre for the Study of Existential Risk, UK",United Kingdom
+416,"James A. Hendler","Rensselaer Polytechnic Institute, Troy, NY, USA",United States
+416,"Oshani Seneviratne","Rensselaer Polytechnic Institute, Troy, NY, USA",United States
+418,"Yolanda Gil","University of Southern California, Information Sciences Institute, Los Angeles, USA",United States
+420,"Franz Wotawa","Graz University of Technology, Austria",Austria
+420,"Gerhard Friedrich","University of Klagenfurt, Austria",Austria
+422,"Harry Eugene Stanley","Boston University, Department of Physics, Center for Polymer Studies, Boston, MA, USA",United States
+422,"Xin Zhang 0036","Shanghai Maritime University, College of Communication and Transport, Shanghai, China",China
+424,"Nikolaus Vahrenkamp","Karlsruhe Institute of Technology, Institute of Anthropomatics",Germany
+424,"Oliver Kroemer","Max Planck Institute for Informatics, Saarbücken, Germany",Germany
+426,"Mohit Kumar 0001","University of Rostock, Center for Life Science Automation, Germany",Germany
+426,"Weiping Zhang 0001","Zhejiang University, Binhai Industrial Technology Research Institute, Tianjin, China",China
+428,"Xin Lu 0005","Coventry University, Faculty of Engineering and Computing, UK",United Kingdom
+428,"Weidong Li 0001","Coventry University, Faculty of Engineering and Computing, United Kingdom",United Kingdom
+430,"Michael E. Fitzpatrick","Coventry University, Research Centre for Data Science / Institute for Future Transport and Cities, UK",United Kingdom
+434,"Jamal Bentahar","Concordia University, Montreal, Canada",Canada
+434,"Anna Helena Reali Costa","University of Sao Paulo, Brazil",Brazil
+436,"Arunkumar N.","SASTRA University, Tamil Nadu, India",India
+436,"Gustavo Ramírez-González 0001","Universidad del Cauca, Tunja, Colombia",Colombia
+438,"Wei Wu 0002","Sichuan University, College of Electronics and Information Engineering, Chengdu, China",China
+440,"Awais Ahmad 0001","Air University, Department of Computer Science, Islamabad, Pakistan",Pakistan
+440,"Zhen Li 0031","Nankai University, College of Computer Science, Tianjin, China",China
+444,"Francesco Marcelloni","University of Pisa, Italy",Italy
+446,"Francisco Herrera","University of Granada, Department of Computer Science and Artificial Intelligence",Spain
+448,"Alberto Fernández 0001","University of Granada, Department of Computer Science and Artificial Intelligence",Spain
+450,"Ahmed E. Kamal 0001","Iowa State University, Ames, USA",United States
+450,"Shui Yu 0001","University of Technology Sydney, School of Computer Science, Faculty of Engineering and Information Technology, Ultimo, NSW, Australia",Australia
+452,"Xue (Steve) Liu","McGill University, School of Computer Science, Montreal, QC, Canada",Canada
+454,"John S. Thompson","University of Edinburgh, School of Engineering, UK",United Kingdom
+456,"Yonghui Li 0001","University of Sydney, School of Electrical and Information Engineering, Centre of Excellence in Telecommunications, NSW, Australia",Australia
+458,"Ada Gavrilovska","Georgia Institute of Technology, Atlanta, USA",United States
+458,"Dejan S. Milojicic","Hewlett Packard Labs",United States
+462,"Kirk Bresniker","Hewlett Packard Labs",United States
+464,"Hua Zhu 0002","China University of Mining and Technology, School of Mechanical and Electrical Engineering, Xuzhou, China",China
+464,"Cong Ding 0003","China University of Mining and Technology, Xuzhou, China",China
+466,"Anthony Hunter","University College London, UK",United Kingdom
+466,"Renata Wassermann","University of Sao Paulo, Brazil",Brazil
+468,"Gabriele Kern-Isberner","Technical University of Dortmund, Germany",Germany
+470,"Thomas Andreas Meyer","CAIR, University of Cape Town",South Africa
+480,"Pieter Spronck","Tilburg University, Tilburg Center for Cognition and Communication (TiCC), The Netherlands",Netherlands
+484,"Tom Schaul","Google DeepMind, London, UK",United Kingdom
+490,"Tobi Delbrück","ETH Zurich, Switzerland",Switzerland
+490,"Robert Chen-Hao Chang","National Chung Hsing University, Taiwan",Taiwan
+492,"Mohammad Mehedi Hassan","King Saud University, Riyadh, Saudi Arabia",Saudi Arabia
+494,"Marco Lippi 0001","University of Modena and Reggio Emilia (Unimore), Italy",Italy
+494,"Sriraam Natarajan","University of Texas at Dallas, Center for Machine Learning, TX, USA",United States
+496,"Fabrizio Riguzzi","University of Ferrara, Italy",Italy
+500,"Kristian Kersting","TU Darmstadt, Computer Science Department, Germany",Germany
+506,"Petr Novotný 0002","IBM T. J. Watson Research Center, Yorktown Heights, NY, USA",United States
+510,"Dinesh C. Verma","IBM",United States
+512,"Duckhwan Kim 0001","Georgia Institute of Technology, Atlanta, GA, USA",United States
+514,"Saibal Mukhopadhyay","Georgia Institute of Technology, Atlanta GA, USA",United States
+514,"Sudhakar Yalamanchili","Georgia Institute of Technology, Atlanta, USA",United States
+518,"Madhavan Swaminathan","Georgia Institute of Technology, Atlanta GA, USA",United States
+524,"David Álvarez 0005","Free Software R&D Foundation (FIDESOL), Spain",Spain
+524,"Jon Arambarri Basanez","Virtual Ware Labs Foundation, Bilbao, Spain",Spain
+526,"Michal Wozniak 0001","Wroclaw University of Science and Technology, Poland",Poland
+528,"Ajith Abraham","Machine Intelligence Research Labs, MIR, Auburn, USA",United States
+534,"Emilio Corchado","University of Burgos, Department of Civil Engineering, Spain",Spain
+538,"Héctor Quintián","University of A Coruña, Spain",Spain
+542,"Igor Santos","University of Deusto, Bilbao, Spain",Spain
+544,"Alicia Troncoso Lora","Pablo de Olavide University, Sevilla, Spain",Spain
+550,"Frank-Michael Schleif","Bielefeld University, Germany",Germany
+550,"Kerstin Bunte","University of Groningen, Bernoulli Institute, The Netherlands",Netherlands
+554,"André C. P. L. F. de Carvalho","University of São Paulo, Department of Computer Science, Brazil",Brazil
+556,"Jeng-Shyang Pan 0001","Shandong University of Science and Technology, College of Computer Science and Engineering, Qingdao, China",China
+572,"Wei Hu 0001","Wuhan University of Science and Technology, College of Computer Science and Technology, China",China
+572,"Kai Zhang 0002","Wuhan University of Science and Technology, College of Computer Science and Technology, Wuhan, China",China
+574,"Carlos Flavián 0001","University of Zaragoza, Department of Marketing Management and Market Research, Spain",Spain
+574,"Daniel Belanche","University of Zaragoza, Faculty of Economy and Business, Spain",Spain
+576,"Sukhpal Singh","Queen Mary University of London, UK",United Kingdom
+578,"Yan Zhang 0002","Simula Research Laboratory, Oslo, Norway",Norway
+578,"Ke Zhang 0008","University of Electronic Science and Technology of China, School of Communication and Information Engineering, Chengdu, China",China
+582,"Xin Peng 0002","Hunan Institute of Science and Technology, Yueyang, China",China
+584,"Danil V. Prokhorov","Toyota Technical Center, Ann Arbor, USA",United States
+586,"Stephen Green 0001","University of Leicester, UK",United Kingdom
+588,"Alexander N. Gorban","University of Leicester, Department of Mathematics, UK",United Kingdom
+590,"Irene Y. H. Gu","Chalmers University of Technology, Department of Signals and Systems, Gothenburg, Sweden",Sweden
+592,"Aki Härmä","Philips Research, Eindhoven, The Netherlands",Netherlands
+594,"Andrés Muñoz 0001","Catholic University of Murcia, Polytechnic School, Spain",Spain
+596,"Loo Geok Pee","Nanyang Technological University, Singapore",Singapore
+596,"Shan Ling Pan","University of New South Wales, Sydney, NSW, Australia",Australia
+598,"Engelbert Mephu Nguifo","University Clermont Auvergne, Clermont-Ferrand, France",France
+598,"Wajdi Dhifli","University of Quebec at Montreal, Canada",Canada
+600,"Dong-Sheng Cao 0001","Central South University, School of Pharmaceutical Sciences, Changsha, China",China
+600,"Zhe Wang 0041","Zhejiang University, Innovation Institute for Artificial Intelligence in Medicine, College of Pharmaceutical Sciences, Hangzhou, China",China
+602,"Keng Siau","City University of Hong Kong, Department of Information Systems, Hong Kong",Hong Kong
+602,"Fiona Fui-Hoon Nah","Missouri University of Science and Technology, Rolla, MO, USA",United States
+604,"Christian Vidal-Castro","University of the Bío Bío, Information Systems Department, Chile",Chile
+604,"Tomás Lermanda Senoceaín","University of the Bío-Bío, Concepción, Department of Information Systems, Chile",Chile
+606,"Alejandra Andrea Segura Navarrete","University of the Bío-Bío, Concepción, Chile",Chile
+610,"Rolf Stadler","Royal Institute of Technology, Stockholm, Sweden",Sweden
+612,"Prosper Chemouil","Orange Labs, Châtillon, France",France
+614,"Yong Li 0008","Tsinghua University, Beijing National Research Center for Information Science and Technology (BNRist), China",China
+616,"Dacheng Tao","University of Sydney, UBTECH Sydney Artificial Intelligence Centre, Darlington, Australia",Australia
+618,"Yonggang Wen 0001","Nanyang Technological University, Singapore",Singapore
+624,"Pan Hui 0001","University of Helsinki, Department of Computer Science, Finland",Finland
+634,"Ying Zhang 0022","Facebook",United States
+636,"Wolfgang Kellerer","Technical University Munich, Germany",Germany
+666,"Hao Dong 0003","Peking University, Beijing, China",China
+666,"Chao Wu 0001","Zhejiang University, Hangzhou, China",China
+668,"Yike Guo","Imperial College London, UK",United Kingdom
+672,"Jun Xiao 0001","Zhejiang University, College of Computer Science and Technology, Hangzhou, China",China
+678,"Sarvapali D. Ramchurn","University of Southampton, UK",United Kingdom
+678,"Timothy J. Norman","University of Southampton, UK",United Kingdom
+680,"Jan Ole Berndt","University of Trier, Germany",Germany
+680,"Thomas Ellwart","University of Trier, Germany",Germany
+684,"Conny H. Antoni","University of Trier, Germany",Germany
+686,"Ingo J. Timm","University of Trier",Germany
+696,"Anna-Sophie Ulfert-Blank","Eindhoven University of Technology, The Netherlands",Netherlands
+698,"Lukas Reuter 0001","University of Trier, Germany",Germany
+710,"Manuel Cebrián","Autonomous University of Madrid, Spain",Spain
+710,"Iyad Rahwan","Max-Planck-Institut für Bildungsforschung, Berlin, Germany",Germany
+712,"Dashun Wang","Northwestern University, Evanston, IL, USA",United States
+716,"Paolo Torroni","University of Bologna, Italy",Italy
+718,"Xu Chen 0004","Sun Yat-sen University, School of Data and Computer Science, Guangzhou, China",China
+720,"Junshan Zhang","Arizona State University, Tempe, Arizona, USA",United States
+720,"Zhi Zhou 0006","Sun Yat-sen University, School of Data and Computer Science, Guangzhou, China",China
+724,"Raja Chatila 0001","Sorbonne University, Paris, France",France
+724,"Raj Madhavan 0001","U.S. Department of State, Bureau of Economic and Business Affairs, Division for International Communications and Information Policy, Washington, D.C.",United States
+726,"José M. Peña 0003","Spanish National Research Council, Institute of Agricultural Sciences, Madrid, Spain",Spain
+726,"Jim Owen","Virginia Tech, Blacksburg, VA, USA",United States
+728,"Hui Xiong 0001","Hong Kong University of Science and Technology",Hong Kong
+730,"Patricia Ordóñez de Pablos","University of Oviedo, Department of Business Administration, Spain",Spain
+732,"Xi Zhang 0009","Tianjin University, College of Management and Economics, China",China
+734,"Tim Miller 0001","University of Melbourne, School of Computing and Information Systems, Australia",Australia
+736,"Simone Stumpf","University of Glasgow, UK",United Kingdom
+738,"Guang-Zhong Yang","Imperial College London, UK",United Kingdom
+742,"Mark Stefik","PARC, Palo Alto, CA, USA",United States
+746,"Zechao Shang","University of Chicago",United States
+746,"Aaron J. Elmore","University of Chicago, IL, USA",United States
+750,"Michael J. Franklin","University of Chicago",United States
+756,"Rui Liu 0002","University of Chicago, Department of Computer Science, IL, USA",United States
+758,"Fei-Yue Wang 0001","Chinese Academy of Sciences, Institute of Automation, State Key Laboratory of Management and Control for Complex Systems, Beijing, China",China
+758,"Nanning Zheng 0001","Xi'an Jiaotong University, Institute of Artificial Intelligence and Robotics, China",China
+760,"Li Li 0013","Tsinghua University, Department of Automation, Beijing, China",China
+764,"Yew-Soon Ong","Nanyang Technological University, Singapore",Singapore
+764,"Abhishek Gupta 0001","Nanyang Technological University, Singapore",Singapore
+766,"Guangjie Han","Hohai University, Department of Information and Communication Engineering, Changzhou, China",China
+766,"Mohsen Guizani","Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI), Doha, Qatar",Qatar
+768,"Jaime Lloret Mauri","Polytechnic University of Valencia, Spain",Spain
+772,"Li He 0002","Guangdong University of Technology, School of Electromechanical Engineering, Guangzhou, China",China
+772,"Xiaojun Wu 0002","Shaanxi Normal University, School of Computer Science, China",China
+774,"Valeriy Vyatkin","Aalto University, Helsinki, Finland",Finland
+774,"Evgeny Osipov","Luleå University of Technology, Sweden",Sweden
+776,"John Panneerselvam","University of Derby, UK",United Kingdom
+776,"Lu Liu 0001","University of Leicester, School of Informatics, UK",United Kingdom
+778,"Bo Yuan 0004","Tongji University, MoE Key Laboratory of Embedded System and Service Computing, Shanghai, China",China
+782,"Han-Chieh Chao","National Ilan University, Yilan, Taiwan",Taiwan
+784,"Victor C. M. Leung","Shenzhen University, Shenzhen, China",China
+784,"Wenyu Zhang 0002","University of Science and Technology Beijing, Institute of Artificial Intelligence, School of Intelligence Science and Technology, China",China
+786,"Zhenjiang Zhang","Beijing Jiaotong University, China",China
+794,"Lajos Hanzo","University of Southampton, UK",United Kingdom
+794,"Rose Qingyang Hu","Utah State University, Logan, UT, USA",United States
+796,"Tu Lam Thanh","CentraleSupélec, Gif-sur-Yvette, France",France
+798,"George K. Karagiannidis","Aristotle University of Thessaloniki, Greece",Greece
+798,"Haijun Zhang 0001","University of Science and Technology Beijing, Communications Engineering, China",China
+800,"Min Chen 0003","Huazhong University of Science and Technology, School of Computer Science and Technology, Wuhan, China",China
+802,"Kai Hwang 0001","Chinese University of Hongkong at Shenzhen, China",China
+806,"Jiajia Liu 0001","Northwestern Polytechnical University, National Engineering Laboratory for Integrated Aero-Space-Ground-Ocean Big Data Application Technology, School of Cybersecurity, Xi'an, China",China
+806,"Nei Kato","Tohoku University, Miyagi, Japan",Japan
+808,"Georg Langs","MIT Computer Science and Artificial Intelligence Laboratory, Cambridge, USA",United States
+808,"Andreas Holzinger","University of Natural Resources and Life Sciences Vienna, Austria",Austria
+810,"Jialin Liu 0001","Southern University of Science and Technology, Department of Computer Science and Engineering, Shenzhen, China",China
+812,"Diego Perez Liebana","Queen Mary University of London, UK",United Kingdom
+814,"Simon M. Lucas","Queen Mary University of London, Game AI Research Group School of Electronic Engineering and Computer Science, UK",United Kingdom
+822,"Ahmed Khalifa 0001","University of Malta, Institute of Digital Games, Malta",Malta
+830,"Raluca D. Gaina","Queen Mary University of London, UK",United Kingdom
